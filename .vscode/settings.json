@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "prettier.singleQuote": true,
+}
